@@ -6,4 +6,5 @@ console.log(words[3]);
 
 const chars = str.split('');
 console.log(chars[8]);
+console.log("What are you doing");
 // expected output: "k"
